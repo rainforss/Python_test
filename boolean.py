@@ -10,12 +10,18 @@ g = "1"
 
 
 # Does not work the same way as javascript
-print(a==b)
+print(a == b)
 
-print(c==d)
+print(c == d)
 
-print(c==e)
+print(c == e)
 
-print(c==f)
+print(c == f)
 
-print(a==g)
+print(a == g)
+
+
+string = "hello ape"
+string.split()
+test = list(string)
+print(string)

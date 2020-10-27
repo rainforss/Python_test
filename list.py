@@ -1,10 +1,10 @@
-print('hello world')
+print("hello world")
 msg = "Hello world"
-my_list = [5,2,3]
-another_list = ['banana','apple','watermelon']
+my_list = [5, 2, 3]
+another_list = ["banana", "apple", "watermelon"]
 
 # Concat
-new_list = my_list +another_list
+new_list = my_list + another_list
 print(new_list)
 
 
@@ -22,3 +22,4 @@ another_list.sort()
 my_list.reverse()
 
 print(my_list)
+
